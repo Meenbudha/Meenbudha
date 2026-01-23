@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meen Budha</h1>
 
 <h3 align="center">
-Aspiring Software Developer | Python 🐍 | Java ☕ | Backend Enthusiast
+Aspiring Software Developer | Java ☕ | Python 🐍 | ME(A)N 
 </h3>
 
 <p align="center">
@@ -20,7 +20,6 @@ Aspiring Software Developer | Python 🐍 | Java ☕ | Backend Enthusiast
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🌱 Exploring **JDBC, Servlets, JSP**
 - 🎯 Goal: Become a **Software Engineer**
-- 📫 Email: *(add your email here)*
 
 ---
 
@@ -52,7 +51,7 @@ Aspiring Software Developer | Python 🐍 | Java ☕ | Backend Enthusiast
 
 ## 📌 Mini Projects
 
-- 🔹 Python Practice Programs (Patterns, Arrays, Strings)
+- 🔹 Java Practice Programs (Patterns, Arrays, Strings)
 - 🔹 Java Backend Mini Projects (JDBC, Servlets)
 - 🔹 DSA Implementations (Linked List, Stack, Queue)
 
