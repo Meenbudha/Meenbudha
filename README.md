@@ -9,7 +9,7 @@ Aspiring Software Developer | Java ☕ | ME(A)N
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38B2AC&center=true&vCenter=true&width=550&lines=Learning+DSA+Every+Day; Leetcode+Problems+solving;Python+%7C+Java+%7C+Full+Stack+Development;Building+Projects+One+Step+at+a+Time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Learning+DSA+Every+Day;Leetcode+Problem+Solving;Python+%7C+Java+%7C+Full+Stack+Development;Building+Projects+One+Step+at+a+Time" />
 </p>
 
 ---
@@ -56,8 +56,9 @@ Aspiring Software Developer | Java ☕ | ME(A)N
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Meenbudha&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Meenbudha&theme=tokyonight" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meenbudha&layout=compact&theme=tokyonight"/>
