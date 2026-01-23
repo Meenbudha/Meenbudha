@@ -69,7 +69,6 @@ Aspiring Software Developer | Java ☕ | ME(A)N
 ## 🧠 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Meen_Budha?theme=dark&font=Fira%20Code&ext=heatmap" />
-  <img src="https://leetcard.jacoblin.cool/Meen_Budha?theme=tokyonight" />
 
 </p>
 
