@@ -1,23 +1,8 @@
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com
-    ?font=Fira+Code
-    &size=32
-    &pause=1200
-    &color=FF6F6F
-    &center=true
-    &vCenter=true
-    &width=750
-    &lines=Hi+%F0%9F%91%8B%2C+I'm+Meen+Budha;
-            Learning+DSA+Every+Day;
-            Leetcode+Problem+Solving;
-            Python+%7C+Java+%7C+Full+Stack+Development;
-            Building+Projects+One+Step+at+a+Time" 
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=FF6F6F&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Meen+Budha;Learning+DSA+Every+Day;Leetcode+Problem+Solving;Python+%7C+Java+%7C+Full+Stack+Development;Building+Projects+One+Step+at+a+Time" />
 </p>
-
 ---
+WELCOME
 <h3 align="center">
 Aspiring Software Developer | Java ☕ | ME(A)N 
 </h3>
