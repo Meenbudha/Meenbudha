@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Meen Budha</h1>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=FF6F6F&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Meen+Budha" 
+    alt="Typing SVG" 
+  />
+</p>
+
 
 <h3 align="center">
 Aspiring Software Developer | Java ☕ | ME(A)N 
@@ -48,6 +54,9 @@ Aspiring Software Developer | Java ☕ | ME(A)N
 </p>
 
 ---
+
+## 📌 Mini Projects
+- 🔹 Todo
 
 ## 📊 GitHub Stats
 
