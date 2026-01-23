@@ -1,12 +1,23 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=FF6F6F&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Meen+Budha" 
-    alt="Typing SVG" 
+    src="https://readme-typing-svg.demolab.com
+    ?font=Fira+Code
+    &size=32
+    &pause=1200
+    &color=FF6F6F
+    &center=true
+    &vCenter=true
+    &width=750
+    &lines=Hi+%F0%9F%91%8B%2C+I'm+Meen+Budha;
+            Learning+DSA+Every+Day;
+            Leetcode+Problem+Solving;
+            Python+%7C+Java+%7C+Full+Stack+Development;
+            Building+Projects+One+Step+at+a+Time" 
+    alt="Typing SVG"
   />
 </p>
 
 ---
-
 <h3 align="center">
 Aspiring Software Developer | Java ☕ | ME(A)N 
 </h3>
@@ -15,11 +26,6 @@ Aspiring Software Developer | Java ☕ | ME(A)N
   <img src="https://komarev.com/ghpvc/?username=Meenbudha&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Learning+DSA+Every+Day;Leetcode+Problem+Solving;Python+%7C+Java+%7C+Full+Stack+Development;Building+Projects+One+Step+at+a+Time" />
-</p>
-
----
 
 ## 🚀 About Me
 
