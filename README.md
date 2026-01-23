@@ -3,7 +3,7 @@
 </p>
 
 
-<h3 align="center">👋 Welcome</h3>
+<h3👋 Welcome</h3>
 
 <h3 align="center">
 Aspiring Software Developer | Java ☕ | ME(A)N 
