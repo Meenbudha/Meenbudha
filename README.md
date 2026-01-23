@@ -55,10 +55,6 @@ Aspiring Software Developer | Java ☕ | ME(A)N
   <img src="https://github-readme-stats.vercel.app/api?username=Meenbudha&show_icons=true&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Meenbudha&theme=tokyonight" />
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meenbudha&layout=compact&theme=tokyonight"/>
