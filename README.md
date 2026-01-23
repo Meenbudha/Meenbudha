@@ -1,25 +1,30 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1200&color=FF6F6F&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Meen+Budha;Learning+DSA+Every+Day;Leetcode+Problem+Solving;Python+%7C+Java+%7C+Full+Stack+Development;Building+Projects+One+Step+at+a+Time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1200&color=FF6F6F&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Meen+Budha;Learning+DSA+Every+Day;Leetcode+Problem+Solving;Python+%7C+Java;Full+Stack+Development;Building+Projects;One+Step+at+a+Time" />
 </p>
-
 
 <h3>👋 Welcome</h3>
 
+
 <h3 align="center">
-Aspiring Software Developer | Java ☕ | ME(A)N 
+Aspiring Software Developer| Java ☕ | @Problem-Solver
 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Meenbudha&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+I'm Meen BahadurBudha, Software developer from india.
+
+👨‍💻 Passionate BTech Candidate in Computer Science at Parul University'27
+
 
 ## 🚀 About Me
 
-- 💻 Learning **Java & Python**
+- 💻 Learning **Java**
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🌱 Exploring **JDBC, Servlets, JSP, ME(A)RN, SpringBoot,**
 - 🎯 Goal: Become a **Software Engineer**
+- 🥷 Skilled in diverse technologies 
 
 ---
 
