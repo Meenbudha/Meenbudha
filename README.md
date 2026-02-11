@@ -56,17 +56,15 @@ I'm Meen BahadurBudha, Software developer from india.
 ---
 
 ## 📌 Mini Projects
-- 🔹 Todo
+- 🔹 Code Review 
+---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Meenbudha&show_icons=true&theme=tokyonight" />
-</p>
+![Meen's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Meenbudha&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Meenbudha&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Meenbudha&layout=compact&theme=tokyonight)
+
 
 ---
 
