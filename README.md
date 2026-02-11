@@ -23,7 +23,7 @@ I'm Meen BahadurBudha, Software developer from india.
 
 - 💻 Learning **Java**
 - 🧠 Practicing **Data Structures & Algorithms**
-- 🌱 Exploring **JDBC, Servlets, JSP, ME(A)RN, SpringBoot,**
+- 🌱 Exploring **ME(A)RN**
 - 🎯 Goal: Become a **Software Engineer**
 - 🥷 Skilled in diverse technologies 
 
@@ -61,12 +61,11 @@ I'm Meen BahadurBudha, Software developer from india.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meenbudha&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Meenbudha&show_icons=true&theme=tokyonight" />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meenbudha&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Meenbudha&layout=compact&theme=tokyonight" />
 </p>
 
 ---
