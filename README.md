@@ -1,88 +1,150 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1200&color=FF6F6F&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Meen+Budha;Learning+DSA+Every+Day;Leetcode+Problem+Solving;Python+%7C+Java;Full+Stack+Development;Building+Projects;One+Step+at+a+Time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Meen+Bahadur+Budha;Full+Stack+Developer+%7C+DSA+Learner;Java+%7C+Python+%7C+MERN+Stack;Building+Projects+and+Solving+Problems;Future+Software+Engineer+🚀" />
 </p>
 
-<h3>👋 Welcome</h3>
-
----
+<h1 align="center">Hey 👋, I'm Meen Bahadur Budha</h1>
 
 <h3 align="center">
- Full Stack Developer| React | Node | Java | @Problem-Solver | DSA 
+Full Stack Developer • DSA Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Meenbudha&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-I'm Meen BahadurBudha, Software developer from india.
-
-👨‍💻 Passionate BTech Candidate in Computer Science at Parul University'27
-
-
-## 🚀 About Me
-
-- 💻 Learning **Java**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🌱 Exploring **ME(A)RN**
-- 🎯 Goal: Become a **Software Engineer**
-- 🥷 Skilled in diverse technologies 
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-<p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### Backend & Concepts
-<p>
-  <img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node-2C2255?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JSP-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge"/>
-</p>
-
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+  <img src="https://komarev.com/ghpvc/?username=Meenbudha&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-##  Projects
-- 🔹 CodeMind AI– Algorithmic Complexity Reviewer
-• Tech Stack: MERN Stack, Python, MongoDB
-• Developed a full-stack web application that automatically estimates Big-O Time and Space Complexity using static
-analysis.
-• Engineered a Python-based analysis engine to parse C, Java, and Python source code for detecting nested loops and
-recursion.
-• Integrated Gemini AI API to generate intelligent optimization suggestions and code explanations.
-• Built an interactive dashboard using React and Tailwind CSS with syntax highlighting and real-time visualization.
-• Designed RESTful APIs connecting Node.js backend and Python microservice, reducing response latency to under 2
-seconds.
-• Implemented MongoDB persistence for storing and tracking previous analysis reports.
----
+## About Me
 
-## 📊 GitHub Stats
-
-![Meen's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Meenbudha&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Meenbudha&layout=compact&theme=tokyonight)
-
+🎓 B.Tech Computer Science Student at **Parul University (2023–2027)**  
+💻 Passionate about **Software Development & Problem Solving**  
+🧠 Practicing **Data Structures & Algorithms** daily  
+🌱 Currently learning **Java, MERN Stack & System Design**  
+🎯 Goal: Become a skilled **Software Developer**  
+⚡ Love building real-world projects and exploring new technologies  
 
 ---
 
-## 🧠 LeetCode Stats
+## Tech Stack
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="65" height="65"/><br>
+<b>Java</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="65" height="65"/><br>
+<b>Python</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=javascript" width="65" height="65"/><br>
+<b>JavaScript</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="65" height="65"/><br>
+<b>MySQL</b>
+</td>
+</tr>
+</table>
+
+---
+
+### 🧠 CS Fundamentals
+- Data Structures & Algorithms
+- OOP Concepts
+- DBMS
+- Operating Systems
+- Computer Networks
+
+--- 
+
+### Tools & Platforms
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65"/><br>
+<b>Git</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="65" height="65"/><br>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65"/><br>
+<b>VS Code</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postman" width="65" height="65"/><br>
+<b>Postman</b>
+</td>
+</tr>
+</table>
+
+---
+
+# Project
+
+##  CodeMind AI- Algorithmic Complexity Reviewer
+### 🔹 Tech Stack
+MERN Stack • Python • MongoDB • Gemini API
+
+### 🔹 Features
+- Automatic **Time & Space Complexity Analysis**
+- Detects nested loops and recursion patterns
+- AI-powered optimization suggestions using Gemini API
+- Interactive dashboard with syntax highlighting
+- Real-time code review
+- REST API integration between Node.js and Python services
+- MongoDB storage for previous analysis reports
+
+### 🔹 Achievements
+- Reduced API response latency.
+- Supported analysis for **C, Java, and Python**
+- Built scalable full-stack architecture
+
+---
+
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Meen_Budha?theme=dark&font=Fira%20Code&ext=heatmap" />
-
+  <img src="https://streak-stats.demolab.com?user=Meenbudha&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
 
-⭐ Feel free to explore my repositories and support my work!
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Meen_Budha?theme=dark&font=Fira%20Code&ext=contest" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Meenbudha" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>"Code. Learn. Build. Repeat."</b> ⭐
+</p>
