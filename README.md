@@ -55,8 +55,18 @@ I'm Meen BahadurBudha, Software developer from india.
 
 ---
 
-## 📌 Mini Projects
-- 🔹 Code Review 
+##  Projects
+- 🔹 CodeMind AI– Algorithmic Complexity Reviewer
+• Tech Stack: MERN Stack, Python, MongoDB
+• Developed a full-stack web application that automatically estimates Big-O Time and Space Complexity using static
+analysis.
+• Engineered a Python-based analysis engine to parse C, Java, and Python source code for detecting nested loops and
+recursion.
+• Integrated Gemini AI API to generate intelligent optimization suggestions and code explanations.
+• Built an interactive dashboard using React and Tailwind CSS with syntax highlighting and real-time visualization.
+• Designed RESTful APIs connecting Node.js backend and Python microservice, reducing response latency to under 2
+seconds.
+• Implemented MongoDB persistence for storing and tracking previous analysis reports.
 ---
 
 ## 📊 GitHub Stats
