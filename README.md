@@ -7,7 +7,7 @@
 ---
 
 <h3 align="center">
-Aspiring Software Developer| Java ☕ | @Problem-Solver
+ Full Stack Developer| React | Node | Java | @Problem-Solver | DSA 
 </h3>
 
 <p align="center">
